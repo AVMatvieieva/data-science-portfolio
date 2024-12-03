@@ -24,8 +24,11 @@
   09/2006 – 08/2010
 
 ## Projects
-  #### Python
-  - [Olympic Games](projects/Olympic_Analytic.ipynb): Analysis of the results of the Olympic Games
-  #### SQL
 
-  #### Tableau
+#### Python
+
+  - [Olympic Games](projects/Olympic_Analytic.ipynb): Analysis of the results of the Olympic Games
+
+#### SQL
+
+#### Tableau
