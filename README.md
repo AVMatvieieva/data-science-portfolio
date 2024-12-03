@@ -25,3 +25,7 @@
 
 ## Projects
   #### Python
+  - [Olympic Games](projects/Olympic_Analytic.ipynb): Analysis of the results of the Olympic Games
+  #### SQL
+
+  #### Tableau
