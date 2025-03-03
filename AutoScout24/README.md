@@ -89,7 +89,7 @@ python train_model.py
 Sobald die Daten vorbereitet und das Modell trainiert ist, können Sie die Anwendung selbst ausführen:
 
 ```bash
-Python-App.py
+python app.py
 ```
 ---
 📈 Ergebnisse der Analyse
