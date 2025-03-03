@@ -71,10 +71,7 @@ Die Fahrzeugdaten stammen aus dem Kaggle-Datensatz:
 git clone https://github.com/dein-username/dein-repository.git
 cd dein-repository
 Abhängigkeiten installieren (optional):
-bash
-Копировать
-Редактировать
-pip install -r requirements.txt
+```
 📈 Ergebnisse der Analyse
 Einige interessante Erkenntnisse aus der Datenanalyse:
 
