@@ -2,5 +2,5 @@ title: Anna Matvieieva
 logo: img/round-head-screenschot.png
 description: Data Analyst & Future Data Wizard. Turning raw data into meaningful insights one query at a time.
 schow_downloads: true
-remote_theme: mistakes/minimal-mistakes@latest
+remote_theme: daattali/beautiful-jekyll
 
