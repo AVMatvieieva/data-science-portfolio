@@ -26,7 +26,7 @@
 # Projects
 
 ####  [Olympic Games](https://github.com/AVMatvieieva/Olympics/blob/main/README.md): Analysis of the results of the Olympic Games
-  #### Technologien und Tools:
+#### Technologien und Tools:
   - Datenbank: MySQL
 
   - Programmiersprachen: Python (pandas, matplotlib, seaborn)
@@ -37,7 +37,7 @@
 
    ---
 #### [AutoScout24](https://github.com/AVMatvieieva/AutoScout24/blob/main/README.md): Vehicle Analysis by AutoScout24 — Case Study with Machine Learning
-  #### Technologien und Tools:
+#### Technologien und Tools:
   - Programmiersprachen: Python (pandas, matplotlib, seaborn, streamlit)
 
   - Visualisierung: Power BI
