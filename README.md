@@ -24,7 +24,7 @@
   09/2006 – 08/2010
 
 # Projects
----
+
 ####  [Olympic Games](https://github.com/AVMatvieieva/Olympics/blob/main/README.md): Analysis of the results of the Olympic Games
   #### Technologien und Tools:
   - Datenbank: MySQL
@@ -34,8 +34,8 @@
   - Visualisierung: Tableau
 
   - Datenmanagement: SQL
- 
-  
+
+   ---
 #### [AutoScout24](https://github.com/AVMatvieieva/AutoScout24/blob/main/README.md): Vehicle Analysis by AutoScout24 — Case Study with Machine Learning
   #### Technologien und Tools:
   - Programmiersprachen: Python (pandas, matplotlib, seaborn, streamlit)
