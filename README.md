@@ -23,13 +23,23 @@
   Odessa State University of Economics
   09/2006 – 08/2010
 
-## Projects
+# Projects
+---
+####  [Olympic Games](https://github.com/AVMatvieieva/Olympics/blob/main/README.md): Analysis of the results of the Olympic Games
+  #### Technologien und Tools:
+  - Datenbank: MySQL
 
-#### Python
+  - Programmiersprachen: Python (pandas, matplotlib, seaborn)
 
-  - [Olympic Games](projects/Olympic_Analytic.ipynb): Analysis of the results of the Olympic Games
-  - [AutoScout24](https://github.com/AVMatvieieva/AutoScout24): Vehicle Analysis by AutoScout24 — Case Study with Machine Learning
+  - Visualisierung: Tableau
 
-#### SQL
+  - Datenmanagement: SQL
+ 
+  
+#### [AutoScout24](https://github.com/AVMatvieieva/AutoScout24/blob/main/README.md): Vehicle Analysis by AutoScout24 — Case Study with Machine Learning
+  #### Technologien und Tools:
+  - Programmiersprachen: Python (pandas, matplotlib, seaborn, streamlit)
 
-#### Tableau
+  - Visualisierung: Power BI
+
+  - Machine Learning: LinearRegression, DecisionTreeRegressor, RandomForestRegressor
