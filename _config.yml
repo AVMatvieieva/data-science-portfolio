@@ -3,5 +3,5 @@ logo: img/round-head-screenschot.png
 description: Motivated business graduate with solid knowledge of Python, SQL, and data visualization (Excel, Tableau).
 I bring strong analytical skills, a structured approach, and a high level of willingness to learn. My goal is to support data-driven decision-making processes and to develop myself in a dynamic environment.
 schow_downloads: true
-remote_theme: pages-themes/cayman
+remote_theme: pages-themes/slate@v0.2.0 
 
