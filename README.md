@@ -1,35 +1,35 @@
 # Data scientist / Data Analyst / Economist
 
 ## 🛠 Skills
-- 🐍 **Programming:** Python, SQL
-- 🛠 **Tools:** Jupyter Notebook, VS Code, Tableau, Power BI, Excel  
-- 📚 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn 
-- 🤖 **Machine Learning:** Classification, Regression, Clustering
+-  **Programming:** Python, SQL
+-  **Tools:** Jupyter Notebook, VS Code, Tableau, Power BI, Excel  
+-  **Libraries:** Pandas, NumPy, Matplotlib, Seaborn 
+-  **Machine Learning:** Classification, Regression, Clustering
   
 ## 🎓 Education
-###  📌 Data Science
+###  Data Science
 
-📍 Daten- und Prozessanalyse mit Python — Data Science Bootcamp
+ Daten- und Prozessanalyse mit Python — Data Science Bootcamp
 
-📅 09/2024 - 03/2025 | **Data Science Institute, Berlin**
+ 09/2024 - 03/2025 **Data Science Institute, Berlin**
 
-### 💻 Software development
+###  Software development
 
-📍 IT Step Academia, Odessa
+ IT Step Academia, Odessa
 
-📅 09/2020 – 04/2022
+ 09/2020 – 04/2022
 
-### 🎓 Master's Degree in Banking
+###  Master's Degree in Banking
 
-📍 **Odessa State University of Economics**
+ **Odessa State University of Economics**
 
-📅 09/2010 – 06/2011
+ 09/2010 – 06/2011
 
-### 🎓 Bachelor's Degree in Economy and Entrepreneurship
+###  Bachelor's Degree in Economy and Entrepreneurship
 
-📍 **Odessa State University of Economics**
+ **Odessa State University of Economics**
 
-📅 09/2006 – 08/2010
+ 09/2006 – 08/2010
 
 # 📌 Projects
 
