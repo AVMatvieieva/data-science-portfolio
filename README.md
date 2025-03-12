@@ -8,19 +8,27 @@
   
 ## 🎓 Education
 ###  📌 Data Science
+
 📍 Daten- und Prozessanalyse mit Python — Data Science Bootcamp
+
 📅 09/2024 - 03/2025 | **Data Science Institute, Berlin**
 
 ### 💻 Software development
+
 📍 IT Step Academia, Odessa
+
 📅 09/2020 – 04/2022
 
 ### 🎓 Master's Degree in Banking
+
 📍 **Odessa State University of Economics**
+
 📅 09/2010 – 06/2011
 
 ### 🎓 Bachelor's Degree in Economy and Entrepreneurship
+
 📍 **Odessa State University of Economics**
+
 📅 09/2006 – 08/2010
 
 # 📌 Projects
@@ -29,8 +37,11 @@
 #### Technologies and tools:
 
 🔹 **Database:** MySQL
+
 🔹 **Languages:** Python (pandas, matplotlib, seaborn)
+
 🔹 **Visualization:** Tableau
+
 🔹 **Data Management:** SQL
 
    ---
@@ -38,11 +49,14 @@
 #### Technologies and tools:
 
 🔹 **Languages:** Python (pandas, matplotlib, seaborn, streamlit)
+
 🔹 **Visualization:** Power BI
+
 🔹 **Machine Learning:** LinearRegression, DecisionTreeRegressor, RandomForestRegressor
 
 ## 🚀 Let's Connect!  
 
 🌐 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/anna-matvieieva-6aa946246/)
-📊 **Tableau Public:** [TABLEAU_PUBLIC](https://public.tableau.com/app/profile/anna.matvieieva/vizzes) 
+
+📊 **Tableau Public:** [Tableau public](https://public.tableau.com/app/profile/anna.matvieieva/vizzes) 
 
