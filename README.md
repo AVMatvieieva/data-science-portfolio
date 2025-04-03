@@ -60,7 +60,7 @@
 
 🔹 **Languages:** Python (pandas, matplotlib, seaborn, streamlit, joblib)
 
-🔹 **Machine Learning:** Logistische Regression, Random Forest, XGBoost oder LightGBM, Support Vector Machine, Neuronale Netzwerke (MLP)
+🔹 **Machine Learning:** Logistische Regression, Random Forest, XGBoost, Support Vector Machine, Neuronale Netzwerke (MLP)
 
 ## 🚀 Let's Connect!  
 
